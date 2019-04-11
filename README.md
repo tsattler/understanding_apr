@@ -8,3 +8,7 @@ CVPR 2019
 ```
 on this page once they have been anonymized. In the mean-time, they are available on demand under the condition that the original datasets will not be shared and will be deleted as soon as the anonymized datasets are available.
 If you are interested, please contact Torsten Sattler (torsat at chalmers.se).
+
+## Supplementary Video
+[![Supplementary Video](https://img.youtube.com/vi/7Efueln55P4/0.jpg
+)](https://youtu.be/7Efueln55P4)
