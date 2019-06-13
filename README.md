@@ -1,6 +1,9 @@
 # Understanding the Limitations of CNN-based Absolute Camera Pose Regression
 
-We will release the datasets introduced in 
+## Datasets
+* `Synthetic ShopFacade` (Table 1 in the paper): The dataset is available [here](https://drive.google.com/open?id=1FTI_TN7E0N3ouMtJaMFJHZOz9WPaN0km).
+
+We will release the other datasets introduced in 
 ```
 Torsten Sattler, Qunjie Zhou, Marc Pollefeys, Laura Leal-Taixé,
 Understanding the Limitations of CNN-based Absolute Camera Pose Regression.
